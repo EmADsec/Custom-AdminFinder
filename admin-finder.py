@@ -41,7 +41,7 @@ for url in wl:
        
        
        
-           
+        
 #Coded by EmADs
 #Pls don't change the source code!
 #Stay safe
