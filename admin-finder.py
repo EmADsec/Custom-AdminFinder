@@ -23,9 +23,9 @@ print(yellow("""
 """)) 
 
 target = input(blue("Enter The Target Website: "))
-target = "http://"+Target
+target = "http://"+target
 wl = input(blue("Select a WordList File: "))
-wl = open(WL,"r").read().splitlines()
+wl = open(wl,"r").read().splitlines()
 
 print(""
 
