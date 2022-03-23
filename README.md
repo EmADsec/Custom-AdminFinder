@@ -13,3 +13,4 @@ Installing and running this script is pretty much the same as others; Download a
 4- Enjoy!
 
 # Preview
+![alt text](https://s6.uupload.ir/files/preview_j1o3.png)
