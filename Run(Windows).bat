@@ -1,1 +1,0 @@
-python admin-finder.py
