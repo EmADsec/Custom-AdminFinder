@@ -40,7 +40,7 @@ for url in wl:
        print(red(f" {full_address} ===> Error 404!"))
        
        
-       
+      
         
 #Coded by EmADs
 #Pls don't change the source code!
