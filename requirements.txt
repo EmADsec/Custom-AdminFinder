@@ -1,0 +1,3 @@
+os
+simple_colors
+requests
